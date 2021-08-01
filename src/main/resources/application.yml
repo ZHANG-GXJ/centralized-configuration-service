@@ -8,6 +8,6 @@ spring:
           uri: https://github.com/ZHANG-GXJ/config-repo.git
           username: ZHANG-GXJ
           password: ZHANGgxj980
-          search-paths: config
+          search-paths: hello-service
 server:
   port: 7001
